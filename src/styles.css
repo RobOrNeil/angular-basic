@@ -13,5 +13,5 @@ mat-card {
   }
 
 mat-card-content {
-    min-height: 325px;
+    min-height: 200px;
   }
